@@ -1,1 +1,4 @@
-Hello, this file has updated with current info
+a=50
+b=40
+c=90
+num= a+B+C
