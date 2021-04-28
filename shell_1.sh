@@ -1,3 +1,4 @@
+Renamed the Repository name
 echo "Hello All"
 read -p "Enter the number to display: " num
 if [ $num -le 10 ]
